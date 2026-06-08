@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Retrait TikTok - Discord et Instagram uniquement"
+  "notes": "Rotation de proxy sur rate-limit - vitesse stable"
 }
