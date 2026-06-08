@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Auto-Claim Discord — prend le pseudo automatiquement des qu il est disponible"
+  "notes": "Fix Auto-Claim: headers Discord corrects + message erreur detaille"
 }
