@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Fix DM All - intent GuildMembers + pagination complete"
+  "notes": "DM All — logs en temps reel par membre + duree totale a la fin"
 }
