@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Nouvelle categorie Tools — IP OSINT Tracker + Discord DM All"
+  "notes": "Fix DM All - intent GuildMembers + pagination complete"
 }
