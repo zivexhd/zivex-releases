@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Fix Auto-Claim: headers Discord corrects + message erreur detaille"
+  "notes": "Auto-Claim: resolution captcha hCaptcha automatique via 2captcha"
 }
