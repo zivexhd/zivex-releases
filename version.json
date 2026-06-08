@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "DM All — logs en temps reel par membre + duree totale a la fin"
+  "notes": "DM All - profils sauvegardes (nom + token + serveur)
 }
