@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Auto-Claim fix: endpoint pomelo - zero captcha, zero mot de passe"
+  "notes": "Auto-Claim: verification token avec affichage du compte connecte"
 }
