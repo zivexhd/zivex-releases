@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Fix checker TikTok - verification via page profil"
+  "notes": "Retrait TikTok - Discord et Instagram uniquement"
 }
