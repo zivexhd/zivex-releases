@@ -1,5 +1,1 @@
-{
-  "version": "1.2.0",
-  "download": "https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe",
-  "notes": "Nouveau UI sidebar + Avatar/Badges, Base64/Hex, Proxy Tester"
-}
+﻿{"version":"1.2.1","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Suppression emojis, fond noir, nouveau UI sidebar"}
