@@ -1,1 +1,1 @@
-{"version":"1.2.7","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Fix X-Super-Properties build 368907 + captcha session_id + retry double-challenge"}
+{"version":"1.2.7","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Fix AppVersion + captcha_rqtoken dans PATCH + UserAgent 2captcha sync"}
