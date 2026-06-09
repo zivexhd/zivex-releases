@@ -1,1 +1,1 @@
-﻿{"version":"1.2.6","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Fix flow captcha: rqdata+rqtoken Discord transmis a 2captcha"}
+{"version":"1.2.7","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Fix X-Super-Properties build 368907 + captcha session_id + retry double-challenge"}
