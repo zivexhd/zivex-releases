@@ -1,1 +1,1 @@
-﻿{"version":"1.2.3","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Auto-claim 2captcha actif pour comptes migres"}
+﻿{"version":"1.2.4","download":"https://github.com/zivexhd/zivex-releases/releases/latest/download/ZIVEX-Sniper.exe","notes":"Fix balance 2captcha (appel Go, plus de CORS)"}
